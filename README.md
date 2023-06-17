@@ -1,4 +1,4 @@
-## Welcome to My C project GITHUB Repo
+## Welcome to My C project GitHub Repo
 
 # C Projects
 
